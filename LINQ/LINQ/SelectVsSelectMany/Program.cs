@@ -1,5 +1,6 @@
 ﻿/* in select u need to use 2 for loops as u get collection of collection
  in slectmany you need to use only 1 for loop as you get only one flat collection
+ * 
  */
 
 
