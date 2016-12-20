@@ -1,0 +1,6 @@
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\bin\Debug\Delegate.exe.config
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\bin\Debug\Delegate.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\bin\Debug\Delegate.pdb
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\obj\Debug\Delegate.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Delegate\obj\Debug\Delegate.pdb

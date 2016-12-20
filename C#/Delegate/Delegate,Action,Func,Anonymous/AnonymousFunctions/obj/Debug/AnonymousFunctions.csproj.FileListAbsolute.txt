@@ -1,0 +1,5 @@
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\AnonymousFunctions\bin\Debug\AnonymousFunctions.exe.config
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\AnonymousFunctions\bin\Debug\AnonymousFunctions.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\AnonymousFunctions\bin\Debug\AnonymousFunctions.pdb
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\AnonymousFunctions\obj\Debug\AnonymousFunctions.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\AnonymousFunctions\obj\Debug\AnonymousFunctions.pdb

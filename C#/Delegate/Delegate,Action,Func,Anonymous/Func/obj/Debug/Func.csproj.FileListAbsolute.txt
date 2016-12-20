@@ -1,0 +1,5 @@
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Func\bin\Debug\Func.exe.config
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Func\bin\Debug\Func.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Func\bin\Debug\Func.pdb
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Func\obj\Debug\Func.exe
+G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Func\obj\Debug\Func.pdb

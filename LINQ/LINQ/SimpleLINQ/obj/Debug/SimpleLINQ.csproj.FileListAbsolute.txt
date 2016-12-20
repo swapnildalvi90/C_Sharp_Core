@@ -1,0 +1,5 @@
+G:\InterviewPreparation\Practice\LINQ\LINQ\SimpleLINQ\bin\SimpleLINQ.dll
+G:\InterviewPreparation\Practice\LINQ\LINQ\SimpleLINQ\bin\SimpleLINQ.pdb
+G:\InterviewPreparation\Practice\LINQ\LINQ\SimpleLINQ\obj\Debug\SimpleLINQ.csprojResolveAssemblyReference.cache
+G:\InterviewPreparation\Practice\LINQ\LINQ\SimpleLINQ\obj\Debug\SimpleLINQ.dll
+G:\InterviewPreparation\Practice\LINQ\LINQ\SimpleLINQ\obj\Debug\SimpleLINQ.pdb

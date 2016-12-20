@@ -1,0 +1,9 @@
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\bin\Debug\DisconnectedADO.exe.config
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\bin\Debug\DisconnectedADO.exe
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\bin\Debug\DisconnectedADO.pdb
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.csprojResolveAssemblyReference.cache
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.Form1.resources
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.Properties.Resources.resources
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.GenerateResource.Cache
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.exe
+G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.pdb

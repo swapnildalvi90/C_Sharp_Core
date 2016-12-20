@@ -1,0 +1,6 @@
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.exe.config
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.exe
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.pdb
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.csprojResolveAssemblyReference.cache
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.exe
+G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.pdb
