@@ -22,6 +22,7 @@ namespace ExtensionMethod
             empList = empList.ChangeCaseOfFirstLetter(); //this is extension method which is written in StringHelper
             GridView1.DataSource = empList;
             GridView1.DataBind();
+
             
         }
     }

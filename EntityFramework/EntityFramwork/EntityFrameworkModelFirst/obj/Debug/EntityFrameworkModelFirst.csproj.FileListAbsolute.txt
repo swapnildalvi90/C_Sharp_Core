@@ -1,0 +1,7 @@
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\bin\EntityFrameworkModelFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\bin\EntityFrameworkModelFirst.pdb
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\bin\EntityFramework.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\bin\EntityFramework.xml
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\obj\Debug\EntityFrameworkModelFirst.csprojResolveAssemblyReference.cache
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\obj\Debug\EntityFrameworkModelFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkModelFirst\obj\Debug\EntityFrameworkModelFirst.pdb

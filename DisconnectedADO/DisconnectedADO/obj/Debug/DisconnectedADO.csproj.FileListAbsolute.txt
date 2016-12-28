@@ -7,3 +7,5 @@ G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\Disco
 G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.GenerateResource.Cache
 G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.exe
 G:\InterviewPreparation\Practice\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.pdb
+G:\GitFolder\C_Sharp_Core\DisconnectedADO\DisconnectedADO\bin\Debug\DisconnectedADO.exe.config
+G:\GitFolder\C_Sharp_Core\DisconnectedADO\DisconnectedADO\obj\Debug\DisconnectedADO.exe

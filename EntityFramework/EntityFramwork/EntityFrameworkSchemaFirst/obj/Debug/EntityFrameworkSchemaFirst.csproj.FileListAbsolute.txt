@@ -1,0 +1,9 @@
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\obj\Debug\EntityFrameworkSchemaFirst.csprojResolveAssemblyReference.cache
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFrameworkSchemaFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFrameworkSchemaFirst.pdb
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFramework.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFramework.SqlServer.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFramework.xml
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\bin\EntityFramework.SqlServer.xml
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\obj\Debug\EntityFrameworkSchemaFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkSchemaFirst\obj\Debug\EntityFrameworkSchemaFirst.pdb
