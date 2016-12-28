@@ -4,3 +4,6 @@ G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\Mult
 G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
 G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\obj\Debug\MulticastDelegate.exe
 G:\InterviewPreparation\Practice\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+G:\GitFolder\C_Sharp_Core\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+G:\GitFolder\C_Sharp_Core\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+G:\GitFolder\C_Sharp_Core\C#\Delegate\Delegate,Action,Func,Anonymous\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

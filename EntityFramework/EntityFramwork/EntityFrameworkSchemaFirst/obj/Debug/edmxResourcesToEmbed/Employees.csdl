@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EmployeeDBContext" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="EmployeeModel.Employee" />
+    <FunctionImport Name="spGetEmployee" ReturnType="Collection(EmployeeModel.spGetEmployee_Result)">
+      <Parameter Name="EmpId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmpId" />
+    </Key>
+    <Property Name="EmpId" Type="Int32" Nullable="false" />
+    <Property Name="EmpName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <ComplexType Name="spGetEmployee_Result">
+    <Property Type="Int32" Name="EmpId" Nullable="false" />
+    <Property Type="String" Name="EmpName" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

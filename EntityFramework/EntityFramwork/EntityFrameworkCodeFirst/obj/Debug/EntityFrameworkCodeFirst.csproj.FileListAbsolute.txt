@@ -1,0 +1,9 @@
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFrameworkCodeFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFrameworkCodeFirst.pdb
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFramework.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFramework.SqlServer.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFramework.xml
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\bin\EntityFramework.SqlServer.xml
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csprojResolveAssemblyReference.cache
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.dll
+G:\GitFolder\C_Sharp_Core\EntityFramework\EntityFramwork\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb

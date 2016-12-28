@@ -4,3 +4,9 @@ G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVs
 G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.csprojResolveAssemblyReference.cache
 G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.exe
 G:\InterviewPreparation\Practice\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.pdb
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.exe.config
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.exe
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.pdb
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.exe
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\bin\Debug\SelectVsSelectMany.pdb
+G:\GitFolder\C_Sharp_Core\LINQ\LINQ\SelectVsSelectMany\obj\Debug\SelectVsSelectMany.csprojResolveAssemblyReference.cache

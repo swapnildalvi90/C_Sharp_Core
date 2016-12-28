@@ -1,0 +1,6 @@
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\bin\Debug\Indexer.exe.config
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\bin\Debug\Indexer.exe
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\bin\Debug\Indexer.pdb
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\obj\Debug\Indexer.exe
+G:\GitFolder\C_Sharp_Core\C#\Indexer\Indexer\Indexer\obj\Debug\Indexer.pdb
